@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginReg</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_lazycolumn">lazycolumn</string>
+    <string name="title_activity_recycler">RecyclerActivity</string>
+    <string name="title_activity_custom1">customActivity1</string>
+    <string name="title_activity_recyler">RecylerActivity</string>
+</resources>
